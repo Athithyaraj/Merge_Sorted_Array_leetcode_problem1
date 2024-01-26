@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\athit\\leetcode\\Merge Sorted Array_leetcode_problem1\\Merge Sorted Array_leetcode_problem1.csproj",
+      "projectUniqueName": "C:\\Users\\athit\\leetcode\\Merge_Sorted_Array_leetcode_problem1\\Merge Sorted Array_leetcode_problem1.csproj",
       "projectName": "Merge Sorted Array_leetcode_problem1",
-      "projectPath": "C:\\Users\\athit\\leetcode\\Merge Sorted Array_leetcode_problem1\\Merge Sorted Array_leetcode_problem1.csproj",
+      "projectPath": "C:\\Users\\athit\\leetcode\\Merge_Sorted_Array_leetcode_problem1\\Merge Sorted Array_leetcode_problem1.csproj",
       "packagesPath": "C:\\Users\\athit\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\athit\\leetcode\\Merge Sorted Array_leetcode_problem1\\obj\\",
+      "outputPath": "C:\\Users\\athit\\leetcode\\Merge_Sorted_Array_leetcode_problem1\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\athit\\AppData\\Roaming\\NuGet\\NuGet.Config",

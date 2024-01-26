@@ -6,6 +6,5 @@ class Program {
     { 
         var t1 = new testcase1();
         await t1.TestcaseAsync();
-        Console.WriteLine("Thank You");
     } 
 } 
